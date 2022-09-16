@@ -23,7 +23,7 @@ ul li:hover {
 }
 
 body {
-    background-image: url(images/Fundo.jpg);
+    background-image: url(assets/Fundo.jpg);
     background-position: top center;
     background-size: 100% auto; /* Define o tamanho  do fundo*/
     background-repeat: no-repeat;
